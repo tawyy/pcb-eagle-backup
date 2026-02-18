@@ -1,6 +1,6 @@
 # Tawy random repo
 
-Mes premières PCB faites sous EAGLE (2016), à une époque ou je ne savais même pas lire un schematic et que les PCB était dessiné comme si je faisais un dessin sous photoshop :) 
+Mes premières PCB faites sous EAGLE (2016), à une époque ou je ne savais même pas lire un schematic et que les PCB était dessinées comme si je faisais un dessin sous photoshop :) 
 Aucune PCB dispo sur ce repo n'a été validée. Je n'utilise plus Eagle.
 
 ## Dreamcast
@@ -15,7 +15,7 @@ Merci à [dc-swat](http://www.dc-swat.ru/)  qui ont été les précurseurs dans 
 
 ## Neo-Geo
 
-* Stereo-mod du pauvre : PCB que j'ai design suite à une visite sur le [forum neo-geo](https://www.neo-geo.com/forums/index.php?threads/info-consolized-mv1fz-rgb-and-controller-points-on-the-bottom-of-the-board.222630/#post-3369623). J'avais fait une consolization d'un slot MVS et j'avais entendu parler d'une bidouille pour rendre le son stéreo. J'ai donc design *très vite fait* une PCB un peu éclatée (mais fonctionnelle) et l'avais rendu publique via un compte google drive que je partage encore aujourd'hui avec des gens qui le réclame. Je voulais un truc super cheap et je ne jurais que par OSHPark à l'époque (jusqu'au jour ou j'ai pris un frais de douane de l'espace de 15€ pour une commande de 2€) - je commande maintenant que sur jlcpcb/elecrow/pcbway. 
+* Stereo-mod du pauvre : PCB que j'ai design suite à une visite sur le [forum neo-geo](https://www.neo-geo.com/forums/index.php?threads/info-consolized-mv1fz-rgb-and-controller-points-on-the-bottom-of-the-board.222630/#post-3369623). J'avais fait une consolization d'un slot MVS et j'avais entendu parler d'une bidouille pour rendre le son stéreo. J'ai donc design *très vite fait* une PCB un peu éclatée (mais fonctionnelle) et l'avais rendu publique via un compte google drive que je partage encore aujourd'hui avec des gens qui la réclame. Je voulais un truc super cheap et je ne jurais que par OSHPark à l'époque (jusqu'au jour ou j'ai pris un frais de douane de l'espace de 15€ pour une commande de 2€) - je ne commande maintenant que sur jlcpcb/elecrow/pcbway. 
 
 * Top PCB Memory Card : memory card que j'ai design en suivant le schema de [furrtek](https://github.com/neogeodev/NeoMemCard2). C'est la plaque du haut seulement :)
 
